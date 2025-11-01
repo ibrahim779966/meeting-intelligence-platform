@@ -1,0 +1,13 @@
+fastapi[all]
+uvicorn[standard]
+python-multipart
+sqlalchemy
+databases
+aiosqlite
+requests
+pydantic
+python-dotenv
+soundfile
+pydub
+chromadb
+tqdm

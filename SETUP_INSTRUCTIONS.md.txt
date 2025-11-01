@@ -1,0 +1,25 @@
+# Setup Instructions
+
+## Step 1 - Install Dependencies
+- Install Python: https://python.org
+- Install Node.js: https://nodejs.org
+
+## Step 2 - Run Backend
+Open Command Prompt/Terminal:
+```bash
+cd backend
+pip install -r requirements.txt
+python main.py
+
+
+###Step 3 - Run Frontend
+Open NEW Command Prompt/Terminal:
+
+bash
+cd frontend
+npm install
+npm start
+
+####Step 4 - Open Application
+Go to: http://localhost:3000
+
